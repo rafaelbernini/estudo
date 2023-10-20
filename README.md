@@ -1,6 +1,9 @@
-**Estrutura *MVC* **   
+**Estrutura *MVC***   
 
 **Estrutura de Diretórios:**
+
+A idéia educacional, de que o aluno possa, pensar de como montar o projeto estuturado em um provejo *MVC*.
+
 
 - `index.php`: Página inicial para redirecionamento.
 - `config.php`: Arquivo de configuração para a conexão com o banco de dados.
